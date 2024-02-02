@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <h1>This is a freestyle project created using NODE JS. Happy Learning!! </h1>
-            <p>Developed by Yatin Gambhir</p>
+            <p>Developed by Yatin Gambhir...</p>
         </body>
         </html>
     `);
